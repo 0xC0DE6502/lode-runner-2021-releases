@@ -30,8 +30,8 @@ RETURN - Dig
 ### Other keys:
 
 ```
-0..9        - Draw tile (edit mode)
-ESCAPE      - Abort
+0..9   - Draw tile (edit mode)
+ESCAPE - Abort
 ```
 
 Lode Runner 2021 Acorn Electron version by [0xC0DE](https://twitter.com/0xC0DE6502)
